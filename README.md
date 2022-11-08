@@ -6,6 +6,9 @@ All activities here consist of two parts: an OpenSSL command that does what
 we need, and the Node.js equivalent. The Node.js equivalent hopefully
 serves as an example for high-level implementations of the OpenSSL library.
 
+Don't expect any formality, seriousness, cleanliness, or extreme security
+with this repository — this is a sandbox and not a production-ready library.
+
 Each folder should have a README file that indicates the security problems
 in each activity, along with other information.
 

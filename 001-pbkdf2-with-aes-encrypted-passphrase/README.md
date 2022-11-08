@@ -1,4 +1,4 @@
-# 001 - PBKDF2 with AES-encrypted Passphrase
+# 001 - (PBKDF2 with AES)-encrypted Passphrase
 
 This encrypts a given passphrase (`secretPasswordHere2`) stored in a file.
 Encryption is done using the `aes-256-cbc` algorithm with key size of 32 (as
