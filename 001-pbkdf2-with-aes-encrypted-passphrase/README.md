@@ -18,7 +18,7 @@ The following security issues exist with this activity:
   derived from the OpenSSL run output
 * The Node.js component of this activity has a static salt
   derived from the OpenSSL run output
-* A known and plaintext PBKDF2 key is used.
+* A known and plaintext PBKDF2 password is used.
 * The passphrase to encrypt is not made of random bytes
 
 When using this activity as an example, please ensure that these have been resolved.
